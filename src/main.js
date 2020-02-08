@@ -8,6 +8,7 @@ import 'element-ui/lib/theme-chalk/index.css';
 import VueRouter from 'vue-router'
 import Clipboard from 'clipboard';
 // Vue.prototype.clipboard = c
+
 import {
   Pagination,
   Dialog,
